@@ -1,0 +1,23 @@
+# Secrets & OAuth tokens
+credentials.json
+token.json
+*.json
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Logs
+*.log
+
+# Test cache
+.pytest_cache/
+.coverage
